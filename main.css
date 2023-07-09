@@ -3,7 +3,7 @@ body{
     /*margin-left: unset;*/
     /*margin-right: unset;*/
     background-color: midnightblue;
-    font-family: Harrington; /*castellar(ubav font), "French Script MT", Harrington, Scheherazade*/
+    font-family: Harrington, "Book Antiqua", "Times New Roman"; /*castellar(ubav font), "French Script MT", Harrington, Scheherazade*/
 }
 #wrapper{
     display: flex;
@@ -18,7 +18,7 @@ body{
     background: repeating-radial-gradient( lightpink, mediumpurple, midnightblue) ;
     line-height: 25px;
     color: white;
-    font-family: "Book Antiqua"; /*"Book Antiqua", Garamond*/
+    font-family: "Book Antiqua", "Times New Roman"; /*"Book Antiqua", Garamond*/
 }
 h1{
     display: flex;
@@ -182,7 +182,7 @@ footer img:nth-child(2){
     background: repeating-radial-gradient( lightpink, mediumpurple, midnightblue) ;
     line-height: 25px;
     color: white;
-    font-family: "Book Antiqua";
+    font-family: "Book Antiqua", "Times New Roman";
     flex-direction: column;
 }
 .firstH, .secondH, .thirdH, .fourthH{
