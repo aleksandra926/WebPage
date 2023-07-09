@@ -134,7 +134,7 @@ footer img:nth-child(2){
 }
 
 #Acontent {
-    background: url("/images/img57.png") no-repeat 200px 0;
+    background: url("img57.png") no-repeat 200px 0;
     width: 100%;
     height: 625px;
     margin: auto;
@@ -152,7 +152,7 @@ footer img:nth-child(2){
     margin-top: -50px;
 }
 #butterfly_content{
-    background: url("/images/img65.png") -100px -60px;
+    background: url("img65.png") -100px -60px;
     background-size: 59%;
     height: 625px;
     width: 100%;
